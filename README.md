@@ -22,7 +22,7 @@
 :seedling: Atualmente estudando: JavaScript <br/>
 :house_with_garden: Atualmente morando em São Luís/MA<br/>
 &#xa0;
-<h2 align="center"> <br/><br/>Tecnologias </h1>
+<h1 align="center"> <br/><br/>Tecnologias </h1>
 <p align="center">
 
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"  Ruby="JavaScript">
