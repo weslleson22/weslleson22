@@ -12,7 +12,7 @@
 </div>
 <!-- <img align="left" width="400" height="200" src="https://mograph.video/2HwFiEL"> -->
 <div align="center">
-<img align="left"  height="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b761151d0c6b3a2139a03ba89b05cdac7bf55bf9c271c&rid=giphy.gif&ct=g"/>
+<img align="left"  height="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o6rv0n9xf3hxw2c4c4bd1xz4qoco5j10qkqvtu0x&rid=giphy.gif&ct=g"/>
 </div>
 <h1 align="center">Olá, me Wesleson Souza! </h1>
 <!-- <img src="./.github/Hi.gif" width="25"> -->
