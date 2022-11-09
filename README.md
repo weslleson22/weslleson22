@@ -14,7 +14,7 @@
 <div align="center">
 <img align="left"  height="250" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o6rv0n9xf3hxw2c4c4bd1xz4qoco5j10qkqvtu0x&rid=giphy.gif&ct=g"/>
 </div>
-<h1 align="center">Olá, me Wesleson Souza! </h1>
+<h1 align="center">Olá, me chamo Wesleson Souza! </h1>
 <!-- <img src="./.github/Hi.gif" width="25"> -->
 :computer: Desenvolvedor Fullstack com Foco em Node<br/>
 :man_student: Engenharia da Computação<br/>
