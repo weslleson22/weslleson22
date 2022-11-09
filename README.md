@@ -10,9 +10,9 @@
 <br />
 <br />
 </div>
-<!-- <img align="left" width="400" height="200" src="https://mograph.video/2HwFiEL"> -->
+<!-- <img align="left" width="400" height="400" src="https://mograph.video/2HwFiEL"> -->
 <div align="center">
-<img align="left"  height="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o6rv0n9xf3hxw2c4c4bd1xz4qoco5j10qkqvtu0x&rid=giphy.gif&ct=g"/>
+<img align="left"  height="150" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o6rv0n9xf3hxw2c4c4bd1xz4qoco5j10qkqvtu0x&rid=giphy.gif&ct=g"/>
 </div>
 <h1 align="center">Olá, me Wesleson Souza! </h1>
 <!-- <img src="./.github/Hi.gif" width="25"> -->
@@ -34,14 +34,20 @@
  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
  
- <img src="https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=adobe-photoshop" alt="Photoshop" title="Photoshop" >
- <img src="https://img.shields.io/badge/illustrator-000000?style=for-the-badge&logo=adobe-illustrator" alt="Illustrator"  title="Illustrator">
  </p>
 
 &#xa0;
 
 &#xa0;
+## 🔮 Minha Stack
+ Essas são algumas das tecnologias que uso no dia a dia
 
+<div align="center">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
+</div>
    
 </div>
 
